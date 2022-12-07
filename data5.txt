@@ -1,1 +1,2 @@
 Branch changes 1234.
+<meta name="description" content="A basic HTML tutorial">\n<meta name="keywords" content="HTML,code,tags">\n<meta name="author" content="MUO">\n<meta name="viewport" content="width=device-width, initial-scale=1.0">
