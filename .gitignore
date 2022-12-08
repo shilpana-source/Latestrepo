@@ -1,0 +1,6 @@
+#this is a comment
+nayak.txt
+/test/file[1-3].java
+/test/*.log
+!/test/file3.log
+/data4.txt
